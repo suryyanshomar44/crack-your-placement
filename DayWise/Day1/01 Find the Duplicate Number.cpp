@@ -17,7 +17,6 @@ public:
             slow = arr[slow];
             fast = arr[fast];
         }
-        
         return slow;
     }
 };
