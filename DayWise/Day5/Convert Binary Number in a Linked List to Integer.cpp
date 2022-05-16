@@ -27,7 +27,6 @@ public:
              t = t*2;
             
         }
-        return res;
-        
+        return res;      
     }
 };
